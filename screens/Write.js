@@ -7,7 +7,7 @@ import {
   TextInput,
   TouchableOpacity,
 } from 'react-native';
-import Header from './HeaderHeader';
+import Header from './Header';
 
 export default class Write extends React.Component {
   render() {
